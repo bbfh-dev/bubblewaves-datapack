@@ -1,0 +1,23 @@
+setblock ~ ~ ~ structure_void
+execute as @s[tag=white] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "white"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1130}}]}
+execute as @s[tag=orange] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "orange"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1131}}]}
+execute as @s[tag=magenta] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "magenta"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1132}}]}
+execute as @s[tag=light_blue] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "light_blue"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1133}}]}
+execute as @s[tag=yellow] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "yellow"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1134}}]}
+execute as @s[tag=lime] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "lime"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1135}}]}
+execute as @s[tag=pink] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "pink"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1136}}]}
+execute as @s[tag=gray] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "gray"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1137}}]}
+execute as @s[tag=light_gray] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "light_gray"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1138}}]}
+execute as @s[tag=cyan] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "cyan"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1139}}]}
+execute as @s[tag=purple] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "purple"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11310}}]}
+execute as @s[tag=blue] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "blue"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11311}}]}
+execute as @s[tag=brown] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "brown"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11312}}]}
+execute as @s[tag=green] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "green"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11313}}]}
+execute as @s[tag=red] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "red"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11314}}]}
+execute as @s[tag=black] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "office_chair", "black"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:11315}}]}
+scoreboard players set @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] bdata.storage 0
+execute as @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] at @s run function bubblewaves:build-in/placeevent/solid_handler
+summon pig ~.5 ~.1 ~.5 {PersistenceRequired:1b, Saddle:1, Tags:["bubblechild", "preparing"], Invulnerable:1, NoGravity:1, NoAI:1, Silent:1, ActiveEffects:[{Id:14, Duration:1000000000, ShowParticles:0b}], Age:-1000000000, DeathLootTable:"minecraft:empty"}
+data modify entity @e[tag=preparing, tag=bubblechild, limit=1, sort=nearest] Rotation[0] set from entity @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] Rotation[0]
+tag @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] remove preparing
+tag @e[tag=preparing, tag=bubblechild, limit=1, sort=nearest] remove preparing

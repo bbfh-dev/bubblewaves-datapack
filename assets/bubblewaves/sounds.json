@@ -1,0 +1,8 @@
+{
+    "block.bear_trap.catch": {
+        "sounds": [
+            "bubblewaves:block/bear_trap/catch"
+        ],
+        "subtitle": "subtitles.block.bear_trap.catch"
+    }
+}

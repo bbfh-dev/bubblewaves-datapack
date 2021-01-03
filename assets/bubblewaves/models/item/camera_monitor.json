@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/stonecutter_bottom",
+		"1": "bubblewaves:item/camera_monitor",
+		"particle": "block/stonecutter_bottom"
+	},
+	"elements": [
+		{
+			"from": [3, 7, 3],
+			"to": [13, 9, 13],
+			"faces": {
+				"north": {"uv": [3, 8, 13, 10], "texture": "#0"},
+				"east": {"uv": [2, 9, 12, 11], "texture": "#0"},
+				"south": {"uv": [2, 3, 12, 5], "texture": "#0"},
+				"west": {"uv": [5, 6, 15, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [3, 4, 13, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [79, 0, 0],
+			"translation": [-4, 4, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [38, 4, 0],
+			"translation": [-7.75, 4.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [38, 4, 0],
+			"translation": [-7.75, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [65, 8, -9],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

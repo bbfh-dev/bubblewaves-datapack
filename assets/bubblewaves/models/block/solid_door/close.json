@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "bubblewaves:block/handler/tall",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "bubblewaves:block/solid_door/close",
+		"particle": "bubblewaves:block/solid_door/close"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6],
+			"to": [16, 32, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 5, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 5, 16], "texture": "#0"},
+				"up": {"uv": [0, 14, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 14], "texture": "#0"}
+			}
+		}
+	]
+}

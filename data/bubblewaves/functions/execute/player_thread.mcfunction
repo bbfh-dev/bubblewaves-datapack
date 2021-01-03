@@ -1,0 +1,9 @@
+execute unless score @s bdata.players matches 0.. run function bubblewaves:execute/player_id
+execute as @s[scores={bw.click=1..}] run function bubblewaves:execute/item/handler
+execute as @s[scores={bw.click=1..}, nbt={SelectedItem:{tag:{CustomModelData:1111}}}] run function bubblewaves:execute/item/camera_monitor/handler
+execute as @s[scores={btrig.viewCamera=100..}, nbt={SelectedItem:{tag:{CustomModelData:1111}}}] at @s run function bubblewaves:execute/item/camera_monitor/view_handler
+scoreboard players set @s bw.click 0
+scoreboard players set @s btrig.viewCamera 0
+execute at @s unless entity @e[tag=bear_trap, distance=..2] run tag @s remove bear_trapped
+execute as @s[scores={bw.leave=1..}] run tellraw @s ["",{"text":"\u2022 BubbleWaves v1.0 loaded ","color":"yellow","clickEvent":{"action":"open_url","value":"https://a"},"hoverEvent":{"action":"show_text","contents":[{"text":"Click to view page on curseforge\ndatapack by BubbleF1sh","color":"gold"}]}}, {"translate":"\u274c BubbleWaves resourcepack can't be found", "color":"red","clickEvent":{"action":"open_url","value":"https://a"}, "hoverEvent":{"action":"show_text","contents":["",{"text":"\u27a6 ","color":"gray"},{"text":"To install resourcepack","bold":true,"color":"gray"},{"text":"\n\n"},{"text":"1st way \u2022","color":"gold"},{"text":" copy datapack archive/folder into\n.minecraft/resourcepacks/","color":"gray"},{"text":"\n\n"},{"text":"2nd way \u2022","color":"light_purple"},{"text":" create link inside .minecraft/resourcepacks/\nto the datapack folder","color":"gray"},{"text":"\n\n"},{"text":"3rd way \u2022","color":"green"},{"text":" click to download the datapack and then install it with ","color":"gray"},{"text":"1st","color":"gold"},{"text":" or ","color":"gray"},{"text":"2st","color":"light_purple"},{"text":" way","color":"gray"},{"text":"\n"}]}, "with": [{"text": "\u2714 Resourcepack was found", "color":"green"}]}]
+scoreboard players set @s bw.leave 0

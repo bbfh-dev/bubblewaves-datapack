@@ -1,0 +1,6 @@
+{
+  "parent": "bubblewaves:item/key",
+  "textures": {
+    "layer0": "bubblewaves:item/lime_key"
+  }
+}

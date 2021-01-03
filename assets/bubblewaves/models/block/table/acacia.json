@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/table/object",
+	"textures": {
+		"material": "block/acacia_planks"
+	}
+}

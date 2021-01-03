@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bubblewaves:bubble_bench"
+                
+			}
+		}
+	},
+	"rewards": {
+		"function": "bubblewaves:recipe/bubble_bench"
+	}
+}

@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1040, EntityTag:{Tags:["bubbleplacer", "box"]}, display:{Name:'{"translate":"block.bubblewaves.box", "italic":false}', Lore:['{"translate":"category.bubblewaves.container", "color":"gold", "italic":false}']}}}, Motion:[0.0d, 0.2d, 0.0d]}

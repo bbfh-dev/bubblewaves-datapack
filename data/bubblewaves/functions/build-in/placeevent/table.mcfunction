@@ -1,0 +1,12 @@
+setblock ~ ~ ~ oak_trapdoor[half=top]
+execute as @s[tag=oak] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "oak"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1010}}]}
+execute as @s[tag=birch] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "birch"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1011}}]}
+execute as @s[tag=spruce] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "spruce"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1012}}]}
+execute as @s[tag=jungle] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "jungle"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1013}}]}
+execute as @s[tag=acacia] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "acacia"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1014}}]}
+execute as @s[tag=dark_oak] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "dark_oak"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1015}}]}
+execute as @s[tag=crimson] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "crimson"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1016}}]}
+execute as @s[tag=warped] run summon armor_stand ~.5 ~ ~.5 {Tags:["bubbleblock", "preparing", "beatevent_reciever", "table", "warped"], Marker:1, Invisible:1, Small:1, ArmorItems:[{}, {}, {}, {id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1017}}]}
+scoreboard players set @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] bdata.storage 0
+execute as @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] at @s run function bubblewaves:build-in/placeevent/solid_handler
+tag @e[tag=preparing, tag=bubbleblock, limit=1, sort=nearest] remove preparing

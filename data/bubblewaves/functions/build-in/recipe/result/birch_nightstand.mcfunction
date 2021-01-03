@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1031, EntityTag:{Tags:["bubbleplacer", "nightstand", "birch"]}, display:{Name:'{"translate":"block.bubblewaves.birch_nightstand", "italic":false}', Lore:['{"translate":"category.bubblewaves.container", "color":"gold", "italic":false}']}}}, Motion:[0.0d, 0.2d, 0.0d]}

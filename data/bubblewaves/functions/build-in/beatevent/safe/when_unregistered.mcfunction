@@ -1,0 +1,2 @@
+tellraw @p [{"text":"To set password click ","color":"light_purple"},{"text":"[HERE]","underlined":true,"color":"gray","clickEvent":{"action":"suggest_command","value":"/trigger btrig.safecode set "}},{"text":" and enter password","color":"light_purple"}]
+tag @s add validating

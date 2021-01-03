@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1000, EntityTag:{Tags:["bubbleplacer", "solid", "bubble_bench"]}, display:{Name:'{"translate":"block.bubblewaves.bubble_bench", "italic":false}'}}}}

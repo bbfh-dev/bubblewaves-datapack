@@ -1,0 +1,7 @@
+{
+	"parent": "bubblewaves:block/bench/object",
+	"textures": {
+		"primary_material": "block/spruce_planks",
+		"part_material": "block/stone"
+	}
+}

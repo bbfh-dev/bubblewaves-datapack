@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:structure_void",
+        "minecraft:oak_planks"
+    ]
+}
