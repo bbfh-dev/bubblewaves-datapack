@@ -69,7 +69,7 @@
 	"block.bubblewaves.black_office_chair": "Black Office Chair",
 	"block.bubblewaves.computer": "Computer",
 	"block.bubblewaves.bear_trap": "Bear Trap",
-	"block.bubblewaves.solid_door": "Solid Door",
+	"block.bubblewaves.solid_door": "Armored Door",
 	"item.bubblewaves.camera_monitor": "Camera Monitor",
 	"item.bubblewaves.red_key": "Red Key",
 	"item.bubblewaves.orange_key": "Orange Key",
@@ -83,7 +83,7 @@
 	"ui.bubblewaves.safe_health_ending": "(s)",
 	"ui.bubblewaves.bear_trap_health": "To destroy a bear trap, you have to break it %s more time",
 	"ui.bubblewaves.bear_trap_health_ending": "(s)",
-	"ui.bubblewaves.solid_door_health": "To destroy a solid door, you have to break it %s more time",
+	"ui.bubblewaves.solid_door_health": "To destroy a Armored Door, you have to break it %s more time",
 	"ui.bubblewaves.solid_door_health_ending": "(s)",
 	"ui.bubblewaves.camera.taken": "This camera is already taken",
 	"ui.bubblewaves.camera.connected": "You have connected this camera",
@@ -118,8 +118,8 @@
 	"description.bubblewaves.bear_trap.1": "2 • Has 70 Health Points",
 	"description.bubblewaves.solid_door.0": "1 • Use key to intetact with it",
 	"description.bubblewaves.solid_door.1": "2 • Has 80 Health Points",
-	"description.bubblewaves.key.0": "1 • Right click in front of Solid Door to interact with it",
-	
+	"description.bubblewaves.key.0": "1 • Right click in front of Armored Door to interact with it",
+
 	"recipe.bubblewaves.oak_planks": "Oak Planks %s",
 	"recipe.bubblewaves.birch_planks": "Birch Planks %s",
 	"recipe.bubblewaves.spruce_planks": "Spruce Planks %s",
