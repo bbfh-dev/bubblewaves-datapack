@@ -1,14 +1,14 @@
 {
-	"criteria": {
-		"recipe": {
-			"trigger": "minecraft:recipe_unlocked",
-			"conditions": {
-				"recipe": "bubblewaves:bubble_bench"
-                
-			}
-		}
-	},
-	"rewards": {
-		"function": "bubblewaves:recipe/bubble_bench"
-	}
-}
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "bubblewaves:bubble_bench"
+        }
+      }
+    },
+    "rewards": {
+      "function": "bubblewaves:block/abstract/bubble_bench"
+    }
+  }
+  

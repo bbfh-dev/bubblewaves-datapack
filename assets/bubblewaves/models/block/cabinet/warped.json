@@ -1,0 +1,7 @@
+{
+	"parent": "bubblewaves:block/cabinet/base",
+	"textures": {
+        "material": "block/warped_planks",
+		"face": "bubblewaves:block/warped_cabinet"
+	}
+}

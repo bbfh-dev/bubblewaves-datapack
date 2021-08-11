@@ -1,0 +1,5 @@
+execute if block ~ ~ ~ oak_trapdoor[open=true] run setblock ~ ~ ~ oak_trapdoor[open=false, half=bottom]
+execute as @s[nbt={ItemRotation:0b}] if block ~1 ~ ~ oak_trapdoor[open=true] run setblock ~1 ~ ~ oak_trapdoor[open=false, half=bottom]
+execute as @s[nbt={ItemRotation:6b}] if block ~ ~ ~-1 oak_trapdoor[open=true] run setblock ~ ~ ~-1 oak_trapdoor[open=false, half=bottom]
+execute as @s[nbt={ItemRotation:4b}] if block ~-1 ~ ~ oak_trapdoor[open=true] run setblock ~-1 ~ ~ oak_trapdoor[open=false, half=bottom]
+execute as @s[nbt={ItemRotation:2b}] if block ~ ~ ~1 oak_trapdoor[open=true] run setblock ~ ~ ~1 oak_trapdoor[open=false, half=bottom]

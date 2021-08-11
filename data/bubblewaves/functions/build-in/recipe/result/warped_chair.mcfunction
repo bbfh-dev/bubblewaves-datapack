@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1027, EntityTag:{Tags:["bubbleplacer", "chair", "warped"]}, display:{Name:'{"translate":"block.bubblewaves.warped_chair", "italic":false}', Lore:['{"translate":"category.bubblewaves.sittable", "color":"dark_aqua", "italic":false}']}}}, Motion:[0.0d, 0.2d, 0.0d]}

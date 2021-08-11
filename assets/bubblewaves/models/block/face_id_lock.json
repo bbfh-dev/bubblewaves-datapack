@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/combination_lock/base",
+	"textures": {
+		"face": "bubblewaves:block/face_id_lock"
+	}
+}

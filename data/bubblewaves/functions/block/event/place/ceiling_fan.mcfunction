@@ -1,0 +1,2 @@
+setblock ~ ~ ~ stone_button[face=ceiling]
+summon armor_stand ~.5 ~ ~.5 {Tags:["bw.ceiling_fan","bubblewaves","bw.block","bw.fresh","bw.recieveTick"], Marker:1b, Invisible:1b, Small:1b, ArmorItems:[{},{},{},{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:58}}]}

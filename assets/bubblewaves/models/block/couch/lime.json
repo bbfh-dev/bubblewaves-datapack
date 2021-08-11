@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/couch/base",
+	"textures": {
+		"texture": "bubblewaves:block/lime_couch"
+	}
+}

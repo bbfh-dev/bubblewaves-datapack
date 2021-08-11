@@ -1,5 +1,7 @@
 {
     "values": [
-        "bubblewaves:load"
+        "bubblewaves:load",
+        "bubblewaves:beat",
+        "bubblewaves:slow"
     ]
 }

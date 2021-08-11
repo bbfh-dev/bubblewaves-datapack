@@ -1,0 +1,16 @@
+execute as @s[tag=bw.red] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/red_office_chair
+execute as @s[tag=bw.white] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/white_office_chair
+execute as @s[tag=bw.orange] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/orange_office_chair
+execute as @s[tag=bw.magenta] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/magenta_office_chair
+execute as @s[tag=bw.light_blue] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/light_blue_office_chair
+execute as @s[tag=bw.yellow] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/yellow_office_chair
+execute as @s[tag=bw.lime] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/lime_office_chair
+execute as @s[tag=bw.pink] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/pink_office_chair
+execute as @s[tag=bw.gray] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/gray_office_chair
+execute as @s[tag=bw.light_gray] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/light_gray_office_chair
+execute as @s[tag=bw.cyan] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/cyan_office_chair
+execute as @s[tag=bw.purple] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/purple_office_chair
+execute as @s[tag=bw.blue] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/blue_office_chair
+execute as @s[tag=bw.brown] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/brown_office_chair
+execute as @s[tag=bw.green] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/green_office_chair
+execute as @s[tag=bw.black] as @p if entity @s[gamemode=!creative] positioned ~.5 ~.5 ~.5 run function give:bubblewaves/black_office_chair

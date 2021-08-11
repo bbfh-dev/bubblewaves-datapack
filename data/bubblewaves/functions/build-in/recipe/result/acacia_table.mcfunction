@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1014, EntityTag:{Tags:["bubbleplacer", "table", "acacia"]}, display:{Name:'{"translate":"block.bubblewaves.acacia_table", "italic":false}', Lore:['{"translate":"category.bubblewaves.decorations", "color":"light_purple", "italic":false}']}}}, Motion:[0.0d, 0.2d, 0.0d]}

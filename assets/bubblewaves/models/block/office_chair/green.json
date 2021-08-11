@@ -1,5 +1,5 @@
 {
-	"parent": "bubblewaves:block/office_chair/object",
+	"parent": "bubblewaves:block/office_chair/base",
 	"textures": {
 		"material": "block/green_wool"
 	}

@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:1033, EntityTag:{Tags:["bubbleplacer", "nightstand", "jungle"]}, display:{Name:'{"translate":"block.bubblewaves.jungle_nightstand", "italic":false}', Lore:['{"translate":"category.bubblewaves.container", "color":"gold", "italic":false}']}}}, Motion:[0.0d, 0.2d, 0.0d]}

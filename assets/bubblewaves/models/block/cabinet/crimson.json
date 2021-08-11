@@ -1,0 +1,7 @@
+{
+	"parent": "bubblewaves:block/cabinet/base",
+	"textures": {
+        "material": "block/crimson_planks",
+		"face": "bubblewaves:block/crimson_cabinet"
+	}
+}

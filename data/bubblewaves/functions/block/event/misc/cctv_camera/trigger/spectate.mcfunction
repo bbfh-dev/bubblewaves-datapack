@@ -1,0 +1,2 @@
+execute if score @p buwv.registry matches 1.. run function bubblewaves:block/event/misc/cctv_camera/trigger/spectate/switch
+execute unless score @p buwv.registry matches 1.. run function bubblewaves:block/event/misc/cctv_camera/trigger/spectate/begin

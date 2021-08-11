@@ -1,0 +1,15 @@
+execute as @s[tag=bw.bubble_bench] run function bubblewaves:block/event/return/bubble_bench
+execute as @s[tag=bw.table] run function bubblewaves:block/event/return/table
+execute as @s[tag=bw.cabinet] run function bubblewaves:block/event/return/cabinet
+execute as @s[tag=bw.shelf] run function bubblewaves:block/event/return/shelf
+execute as @s[tag=bw.couch] run function bubblewaves:block/event/return/couch
+execute as @s[tag=bw.office_chair] run function bubblewaves:block/event/return/office_chair
+execute as @s[tag=bw.ceiling_fan] run function bubblewaves:block/event/return/ceiling_fan
+execute as @s[tag=bw.doorbell] run function bubblewaves:block/event/return/doorbell
+execute as @s[tag=bw.shover] run function bubblewaves:block/event/return/shover
+execute as @s[tag=bw.computer] run function bubblewaves:block/event/return/computer
+execute as @s[tag=bw.combination_lock] run function bubblewaves:block/event/return/combination_lock
+execute as @s[tag=bw.face_id_lock] run function bubblewaves:block/event/return/face_id_lock
+execute as @s[tag=bw.toilet] run function bubblewaves:block/event/return/toilet
+execute as @s[tag=bw.screen] run function bubblewaves:block/event/return/screen
+execute as @s[tag=bw.cctv_camera] run function bubblewaves:block/event/return/cctv_camera

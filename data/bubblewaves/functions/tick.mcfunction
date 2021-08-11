@@ -1,7 +1,6 @@
-# Events
-execute as @e[tag=bubbleblock] at @s run function bubblewaves:build-in/destroyevent/handler
-execute as @e[tag=bubbleplacer] at @s if block ~ ~ ~ air align xyz run function bubblewaves:build-in/placeevent/handler
-execute as @e[tag=bubbleplacer] at @s unless block ~ ~ ~ air align xyz run function bubblewaves:build-in/placeevent/return
-execute as @e[tag=tickevent_reciever] at @s run function bubblewaves:build-in/tickevent/handler
-execute as @e[tag=nohoppers] at @s run function bubblewaves:build-in/tickevent/nohoppers
+tag @e[type=#bubblewaves:block] remove bw.passed
+execute as @a at @s run function bubblewaves:player/tick
+
+execute as @e[type=item_frame, tag=bubblewaves, tag=bw.placer] at @s run function bubblewaves:block/event/place/conditions
+execute as @e[type=#bubblewaves:block, tag=bw.passed] at @s run function bubblewaves:block/event/handler
 kill @e[type=item, nbt={Item:{tag:{UI:1b}}}]

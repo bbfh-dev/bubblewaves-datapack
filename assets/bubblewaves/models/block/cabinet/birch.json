@@ -1,0 +1,7 @@
+{
+	"parent": "bubblewaves:block/cabinet/base",
+	"textures": {
+        "material": "block/birch_planks",
+		"face": "bubblewaves:block/birch_cabinet"
+	}
+}

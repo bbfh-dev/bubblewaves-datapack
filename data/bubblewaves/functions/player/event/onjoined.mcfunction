@@ -1,0 +1,3 @@
+tellraw @s ["",{"text":"BubbleWaves 3.0 ","bold":true,"color":"white"},{"translate":"Resourcepack not found (BUWV3).","color":"red","with":[{"text":"Resourcepack was found.", "color":"green"}]},{"translate":"\n[ Click to ","color":"#F8D14B","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com"}},{"translate":"Download","bold":true,"color":"#F8D14B","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com"}},{"translate":" ]","color":"#F8D14B","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com"}}]
+
+tag @s add buwv.onJoined

@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:27, Tags:["bw.white_couch","bubblewaves"], display:{Name:'{"translate":"block.bubblewaves.white_couch", "italic":false}', Lore:['[{"text":"\\u231b ","italic":false,"color":"aqua"},{"translate":"category.bubblewaves.sittable"}]']},EntityTag:{Tags:["bw.couch","bw.white","bubblewaves","bw.placer"]}}}}

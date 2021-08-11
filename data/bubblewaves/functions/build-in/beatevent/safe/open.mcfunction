@@ -1,2 +1,0 @@
-execute as @e[tag=subbubble] if score @s bdata.blocks = @e[tag=bubbleblock, limit=1, sort=nearest] bdata.blocks run data modify block ~ ~ ~ Items set from entity @s Items
-scoreboard players set @s bdata.timer 10

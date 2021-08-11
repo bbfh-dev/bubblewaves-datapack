@@ -1,5 +1,5 @@
 {
-	"parent": "bubblewaves:block/table/object",
+	"parent": "bubblewaves:block/table/base",
 	"textures": {
 		"material": "block/dark_oak_planks"
 	}

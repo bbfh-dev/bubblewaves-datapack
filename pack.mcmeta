@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 6,
-        "description": ["", {"text":"BubbleWaves ", "color":"light_purple"}, {"text":"\u2022", "color":"gray"}, {"text":" BubbleF1sh", "color":"gold"}, {"text":"\nAdds new blocks & items", "color":"gray"}]
+        "pack_format": 7,
+        "description": [{"text":"BubbleWaves 3.0","color":"#95cacb"},{"text":" (11/08/21)","color":"gray"},{"text":"\nby BubbleFish / 1.16, 1.17","color":"gray"}]
     }
 }

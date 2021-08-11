@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:2, Tags:["bw.oak_table","bubblewaves"], display:{Name:'{"translate":"block.bubblewaves.oak_table", "italic":false}', Lore:['[{"text":"\\u2602 ","italic":false,"color":"green"},{"translate":"category.bubblewaves.decoration"}]']},EntityTag:{Tags:["bw.table","bw.oak","bubblewaves","bw.placer"]}}}}

@@ -1,8 +1,14 @@
 {
-    "block.bear_trap.catch": {
+    "block.doorbell.bell": {
         "sounds": [
-            "bubblewaves:block/bear_trap/catch"
+            "bubblewaves:block/doorbell/bell"
         ],
-        "subtitle": "subtitles.block.bear_trap.catch"
+        "subtitle": "subtitles.block.doorbell.bell"
+    },
+    "item.camera_monitor.action": {
+        "sounds": [
+            "bubblewaves:item/camera_monitor/action"
+        ],
+        "subtitle": "subtitles.item.camera_monitor.action"
     }
 }

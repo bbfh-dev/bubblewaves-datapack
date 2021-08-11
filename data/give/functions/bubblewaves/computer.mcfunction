@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:61, Tags:["bw.computer","bubblewaves"], display:{Name:'{"translate":"block.bubblewaves.computer", "italic":false}',Lore:['[{"text":"\\u2602 ","italic":false,"color":"green"},{"translate":"category.bubblewaves.decoration"}]']},EntityTag:{Tags:["bw.computer","bubblewaves","bw.placer"]}}}}

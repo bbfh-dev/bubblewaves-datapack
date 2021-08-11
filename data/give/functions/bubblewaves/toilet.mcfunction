@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:65, Tags:["bw.toilet","bubblewaves"], display:{Name:'{"translate":"block.bubblewaves.toilet", "italic":false}',Lore:['[{"text":"\\u231b ","italic":false,"color":"aqua"},{"translate":"category.bubblewaves.sittable"}]']},EntityTag:{Tags:["bw.toilet","bubblewaves","bw.placer"]}}}}

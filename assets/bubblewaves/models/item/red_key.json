@@ -1,6 +1,0 @@
-{
-  "parent": "bubblewaves:item/key",
-  "textures": {
-    "layer0": "bubblewaves:item/red_key"
-  }
-}

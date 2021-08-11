@@ -1,4 +1,0 @@
-execute if score @s bdata.storage matches 1.. at @a[distance=..3] if score @p[distance=..3] btrig.pincode matches 1.. run function bubblewaves:build-in/beatevent/combination_lock/check
-execute unless score @s bdata.storage matches 1.. if score @p[distance=..3] btrig.pincode matches 1.. run tellraw @p[distance=..3] {"text":"The lock has locked","color":"dark_aqua"}
-execute unless score @s bdata.storage matches 1.. if score @p[distance=..3] btrig.pincode matches 1.. run scoreboard players operation @s bdata.storage = @p[distance=..3] btrig.pincode
-execute unless score @s bdata.storage matches 1.. if score @p[distance=..3] btrig.pincode matches 1.. run tag @s remove validating
