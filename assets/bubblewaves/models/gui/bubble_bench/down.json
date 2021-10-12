@@ -1,6 +1,0 @@
-{
-    "parent": "bubblewaves:gui/bubble_bench/button",
-    "textures": {
-        "layer0": "bubblewaves:gui/bubble_bench/down"
-    }
-}

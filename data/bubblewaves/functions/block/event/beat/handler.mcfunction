@@ -1,2 +1,0 @@
-execute as @s[tag=bw.shover] if block ~ ~ ~ stone_pressure_plate[powered=true] run function bubblewaves:block/event/beat/shover
-execute as @s[tag=bw.screen] run function bubblewaves:block/event/beat/screen

@@ -1,6 +1,0 @@
-{
-	"parent": "bubblewaves:block/screen/idle",
-	"textures": {
-		"1": "bubblewaves:block/screen/rick_roll"
-	}
-}

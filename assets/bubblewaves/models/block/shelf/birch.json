@@ -1,6 +1,0 @@
-{
-	"parent": "bubblewaves:block/shelf/base",
-	"textures": {
-		"material": "block/birch_planks"
-	}
-}

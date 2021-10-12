@@ -1,2 +1,0 @@
-scoreboard players add $ScorePlayer buwv.registry 1
-execute as @e[type=armor_stand, tag=bw.spectateMark] if score @s buwv.registry = $ScorePlayer buwv.registry run function bubblewaves:registry/generate_play_loop

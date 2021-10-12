@@ -1,2 +1,0 @@
-execute as @s[scores={buwv.registry=1..}] as @e[type=armor_stand, tag=bw.cctv_camera] if score @s buwv.registry = @p buwv.registry run function bubblewaves:player/event/camera_monitor/leave
-scoreboard players reset @s buwv.sneak_time
