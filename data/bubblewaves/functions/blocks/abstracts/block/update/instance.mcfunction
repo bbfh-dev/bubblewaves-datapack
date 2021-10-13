@@ -1,1 +1,1 @@
-execute if entity @e[tag=buws.OAK_TABLE, distance=...9] run function bubblewaves:blocks/tables/oak/update
+execute if entity @e[type=armor_stand, tag=-buws.connective, distance=...9] as @e[type=armor_stand, tag=-buws.connective, distance=...9] run function bubblewaves:blocks/abstracts/block/update/instance_handler
