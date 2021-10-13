@@ -1,3 +1,22 @@
 {
-
+    "category.bubblewaves.furniture": "Furniture",
+    "block.bubblewaves.bubble_bench": "Bubble Bench",
+    "block.bubblewaves.oak_table": "Oak Table",
+    "block.bubblewaves.spruce_table": "Spruce Table",
+    "block.bubblewaves.birch_table": "Birch Table",
+    "block.bubblewaves.jungle_table": "Jungle Table",
+    "block.bubblewaves.acacia_table": "Acacia Table",
+    "block.bubblewaves.dark_oak_table": "Dark_oak Table",
+    "block.bubblewaves.crimson_table": "Crimson Table",
+    "block.bubblewaves.warped_table": "Warped Table",
+    "block.bubblewaves.stone_table": "Stone Table",
+    "block.bubblewaves.oak_chair": "Oak Chair",
+    "block.bubblewaves.spruce_chair": "Spruce Chair",
+    "block.bubblewaves.birch_chair": "Birch Chair",
+    "block.bubblewaves.jungle_chair": "Jungle Chair",
+    "block.bubblewaves.acacia_chair": "Acacia Chair",
+    "block.bubblewaves.dark_oak_chair": "Dark_oak Chair",
+    "block.bubblewaves.crimson_chair": "Crimson Chair",
+    "block.bubblewaves.warped_chair": "Warped Chair",
+    "block.bubblewaves.stone_chair": "Stone Chair"
 }

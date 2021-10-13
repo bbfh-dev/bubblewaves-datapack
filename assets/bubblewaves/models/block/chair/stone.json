@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/chair/template",
+	"textures": {
+		"material": "block/stone"
+	}
+}

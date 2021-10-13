@@ -1,4 +1,5 @@
 scoreboard objectives add bubblewaves dummy "BubbleWaves 4.0"
+scoreboard objectives add buws.registry dummy
 scoreboard objectives add buws.stateA dummy
 scoreboard objectives add buws.stateB dummy
 scoreboard objectives add buws.stateC dummy

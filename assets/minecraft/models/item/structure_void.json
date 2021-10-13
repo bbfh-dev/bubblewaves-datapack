@@ -44,6 +44,15 @@
         {"predicate":{"custom_model_data":85034}, "model":"bubblewaves:block/tables/corner/dark_oak"},
         {"predicate":{"custom_model_data":85035}, "model":"bubblewaves:block/tables/corner/crimson"},
         {"predicate":{"custom_model_data":85036}, "model":"bubblewaves:block/tables/corner/warped"},
-        {"predicate":{"custom_model_data":85037}, "model":"bubblewaves:block/tables/corner/stone"}
+        {"predicate":{"custom_model_data":85037}, "model":"bubblewaves:block/tables/corner/stone"},
+        {"predicate":{"custom_model_data":85074}, "model":"bubblewaves:block/chair/oak"},
+        {"predicate":{"custom_model_data":85075}, "model":"bubblewaves:block/chair/spruce"},
+        {"predicate":{"custom_model_data":85076}, "model":"bubblewaves:block/chair/birch"},
+        {"predicate":{"custom_model_data":85077}, "model":"bubblewaves:block/chair/jungle"},
+        {"predicate":{"custom_model_data":85078}, "model":"bubblewaves:block/chair/acacia"},
+        {"predicate":{"custom_model_data":85079}, "model":"bubblewaves:block/chair/dark_oak"},
+        {"predicate":{"custom_model_data":85080}, "model":"bubblewaves:block/chair/crimson"},
+        {"predicate":{"custom_model_data":85081}, "model":"bubblewaves:block/chair/warped"},
+        {"predicate":{"custom_model_data":85082}, "model":"bubblewaves:block/chair/stone"}
     ]
 }

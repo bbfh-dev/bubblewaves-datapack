@@ -1,0 +1,1 @@
+setblock ~ ~ ~ oak_trapdoor[open=false, half=top]
