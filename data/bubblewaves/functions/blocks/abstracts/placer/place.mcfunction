@@ -1,0 +1,10 @@
+execute if entity @s[tag=buws.BUBBLE_BENCH] align xyz run function bubblewaves:blocks/bubble_bench/place
+execute if entity @s[tag=buws.OAK_TABLE] align xyz run function bubblewaves:blocks/tables/oak/place
+# execute if entity @s[tag=buws.SPRUCE_TABLE] run function bubblewaves:blocks/spruce_table/place
+# execute if entity @s[tag=buws.BIRCH_TABLE] run function bubblewaves:blocks/birch_table/place
+# execute if entity @s[tag=buws.JUNGLE_TABLE] run function bubblewaves:blocks/jungle_table/place
+# execute if entity @s[tag=buws.ACACIA_TABLE] run function bubblewaves:blocks/acacia_table/place
+# execute if entity @s[tag=buws.DARK_OAK_TABLE] run function bubblewaves:blocks/dark_oak_table/place
+# execute if entity @s[tag=buws.CRIMSON_TABLE] run function bubblewaves:blocks/crimson_table/place
+# execute if entity @s[tag=buws.WARPED_TABLE] run function bubblewaves:blocks/warped_table/place
+# execute if entity @s[tag=buws.STONE_TABLE] run function bubblewaves:blocks/stone_table/place

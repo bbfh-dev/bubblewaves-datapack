@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:gui/abstract/slot",
+    "textures": {
+        "layer0": "bubblewaves:gui/arrow_right"
+    }
+}

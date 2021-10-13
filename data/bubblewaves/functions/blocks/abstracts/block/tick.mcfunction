@@ -1,0 +1,1 @@
+execute if entity @s[tag=buws.BUBBLE_BENCH] if block ~ ~ ~ barrel[open=true] run function bubblewaves:blocks/bubble_bench/tick

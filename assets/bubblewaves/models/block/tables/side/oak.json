@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:block/tables/side/template",
+	"textures": {
+		"material": "block/oak_planks"
+	}
+}

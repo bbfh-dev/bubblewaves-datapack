@@ -1,0 +1,6 @@
+{
+    "values": [
+        "bubblewaves:blocks/abstracts/placer/place",
+        "bubblewaves:blocks/abstracts/block/update/handler"
+    ]
+}

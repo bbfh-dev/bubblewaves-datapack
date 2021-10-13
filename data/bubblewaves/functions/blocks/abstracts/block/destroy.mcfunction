@@ -1,0 +1,2 @@
+execute if entity @s[tag=buws.BUBBLE_BENCH] unless block ~ ~ ~ barrel run function bubblewaves:blocks/bubble_bench/destroy
+execute if entity @s[tag=buws.TABLES] unless block ~ ~ ~ oak_trapdoor run function bubblewaves:blocks/tables/destroy

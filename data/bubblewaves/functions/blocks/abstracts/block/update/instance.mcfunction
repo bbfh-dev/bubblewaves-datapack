@@ -1,0 +1,1 @@
+execute if entity @e[tag=buws.OAK_TABLE, distance=...9] run function bubblewaves:blocks/tables/oak/update
