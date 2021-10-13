@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:block/tables/middle_rotated/template",
+	"textures": {
+		"material": "block/dark_oak_planks"
+	}
+}

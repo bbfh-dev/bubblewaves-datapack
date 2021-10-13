@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:block/tables/side_rotated/template",
+	"textures": {
+		"material": "block/crimson_planks"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:block/tables/classic_rotated/template",
+	"textures": {
+		"material": "block/jungle_planks"
+	}
+}
