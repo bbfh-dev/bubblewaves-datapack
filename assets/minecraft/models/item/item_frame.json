@@ -85,6 +85,22 @@
         {"predicate":{"custom_model_data":85079}, "model":"bubblewaves:block/chair/dark_oak"},
         {"predicate":{"custom_model_data":85080}, "model":"bubblewaves:block/chair/crimson"},
         {"predicate":{"custom_model_data":85081}, "model":"bubblewaves:block/chair/warped"},
-        {"predicate":{"custom_model_data":85082}, "model":"bubblewaves:block/chair/stone"}
+        {"predicate":{"custom_model_data":85082}, "model":"bubblewaves:block/chair/stone"},
+        {"predicate":{"custom_model_data":85083}, "model":"bubblewaves:block/couch/black"},
+        {"predicate":{"custom_model_data":85084}, "model":"bubblewaves:block/couch/blue"},
+        {"predicate":{"custom_model_data":85085}, "model":"bubblewaves:block/couch/brown"},
+        {"predicate":{"custom_model_data":85086}, "model":"bubblewaves:block/couch/cyan"},
+        {"predicate":{"custom_model_data":85087}, "model":"bubblewaves:block/couch/gray"},
+        {"predicate":{"custom_model_data":85088}, "model":"bubblewaves:block/couch/green"},
+        {"predicate":{"custom_model_data":85089}, "model":"bubblewaves:block/couch/light_blue"},
+        {"predicate":{"custom_model_data":85090}, "model":"bubblewaves:block/couch/light_gray"},
+        {"predicate":{"custom_model_data":85091}, "model":"bubblewaves:block/couch/lime"},
+        {"predicate":{"custom_model_data":85092}, "model":"bubblewaves:block/couch/magenta"},
+        {"predicate":{"custom_model_data":85093}, "model":"bubblewaves:block/couch/orange"},
+        {"predicate":{"custom_model_data":85094}, "model":"bubblewaves:block/couch/pink"},
+        {"predicate":{"custom_model_data":85095}, "model":"bubblewaves:block/couch/purple"},
+        {"predicate":{"custom_model_data":85096}, "model":"bubblewaves:block/couch/red"},
+        {"predicate":{"custom_model_data":85097}, "model":"bubblewaves:block/couch/white"},
+        {"predicate":{"custom_model_data":85098}, "model":"bubblewaves:block/couch/yellow"}
     ]
 }

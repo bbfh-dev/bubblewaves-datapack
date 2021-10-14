@@ -13,6 +13,8 @@ execute store success score $Clicked bubblewaves run clear @p[scores={bubblewave
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/tables
 execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{class:"#gui:chairs"}} 0
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/chairs
+execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{class:"#gui:couches"}} 0
+execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/couches
 
 #  Limit
 execute if score @s buws.stateA matches ..-1 run scoreboard players set @s buws.stateA 0

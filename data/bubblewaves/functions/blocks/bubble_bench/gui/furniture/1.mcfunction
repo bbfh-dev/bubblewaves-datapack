@@ -2,21 +2,21 @@ item replace block ~ ~ ~ container.19 with minecraft:structure_void{BUWS:{check:
 item replace block ~ ~ ~ container.20 with minecraft:structure_void{BUWS:{check:1b, id:"gui:none", version:1}, CustomModelData:85074, display:{Name:'{"translate":"category.bubblewaves.furniture", "italic":false, "color":"#f9bd3b"}'}, HideFlags:256, Enchantments:[{}]} 2
 
 
-item replace block ~ ~ ~ container.0 with air
-item replace block ~ ~ ~ container.1 with air
-item replace block ~ ~ ~ container.2 with air
-item replace block ~ ~ ~ container.3 with air
-item replace block ~ ~ ~ container.4 with air
-item replace block ~ ~ ~ container.5 with air
-item replace block ~ ~ ~ container.6 with air
-item replace block ~ ~ ~ container.7 with air
-item replace block ~ ~ ~ container.8 with air
-item replace block ~ ~ ~ container.9 with air
-item replace block ~ ~ ~ container.10 with air
-item replace block ~ ~ ~ container.11 with air
-item replace block ~ ~ ~ container.12 with air
-item replace block ~ ~ ~ container.13 with air
-item replace block ~ ~ ~ container.14 with air
-item replace block ~ ~ ~ container.15 with air
+item replace block ~ ~ ~ container.0 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"black", version:1}, CustomModelData:85083, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.black_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.1 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"blue", version:1}, CustomModelData:85084, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.blue_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.2 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"brown", version:1}, CustomModelData:85085, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.brown_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.3 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"cyan", version:1}, CustomModelData:85086, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.cyan_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.4 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"gray", version:1}, CustomModelData:85087, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.gray_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.5 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"green", version:1}, CustomModelData:85088, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.green_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.6 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"light_blue", version:1}, CustomModelData:85089, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.light_blue_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.7 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"light_gray", version:1}, CustomModelData:85090, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.light_gray_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.8 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"lime", version:1}, CustomModelData:85091, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.lime_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.9 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"magenta", version:1}, CustomModelData:85092, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.magenta_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.10 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"orange", version:1}, CustomModelData:85093, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.orange_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.11 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"pink", version:1}, CustomModelData:85094, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.pink_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.12 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"purple", version:1}, CustomModelData:85095, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.purple_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.13 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"red", version:1}, CustomModelData:85096, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.red_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.14 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"white", version:1}, CustomModelData:85097, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.white_couch"}'}, HideFlags:256}
+item replace block ~ ~ ~ container.15 with minecraft:structure_void{BUWS:{check:1b, class:"#gui:couches", id:"yellow", version:1}, CustomModelData:85098, display:{Name:'{"italic":false, "color":"white", "translate":"block.bubblewaves.yellow_couch"}'}, HideFlags:256}
 item replace block ~ ~ ~ container.16 with air
 item replace block ~ ~ ~ container.17 with air

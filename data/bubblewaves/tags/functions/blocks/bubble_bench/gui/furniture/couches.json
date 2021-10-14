@@ -1,0 +1,20 @@
+{
+    "values": [
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/black",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/blue",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/brown",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/cyan",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/gray",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/green",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/light_blue",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/light_gray",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/lime",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/magenta",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/orange",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/pink",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/purple",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/red",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/white",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/couch/yellow"
+    ]
+}
