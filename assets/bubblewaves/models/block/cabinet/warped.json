@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/cabinet/template",
+	"textures": {
+		"material": "block/warped_planks"
+	}
+}

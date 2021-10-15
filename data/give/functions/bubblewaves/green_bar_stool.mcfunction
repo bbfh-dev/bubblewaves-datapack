@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.green_bar_stool"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85197, display:{Name:'{"translate":"block.bubblewaves.green_bar_stool", "italic":false}'}}}}

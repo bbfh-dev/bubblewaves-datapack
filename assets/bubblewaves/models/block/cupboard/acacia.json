@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/cupboard/template",
+	"textures": {
+		"material": "block/acacia_planks"
+	}
+}

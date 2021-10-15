@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/office_chair/template",
+	"textures": {
+		"material": "block/white_wool"
+	}
+}

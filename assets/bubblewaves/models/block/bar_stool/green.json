@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/bar_stool/template",
+	"textures": {
+		"material": "block/green_wool"
+	}
+}
