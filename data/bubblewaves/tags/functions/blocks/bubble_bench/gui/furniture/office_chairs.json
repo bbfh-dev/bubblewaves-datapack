@@ -1,0 +1,20 @@
+{
+    "values": [
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/black",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/blue",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/brown",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/cyan",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/gray",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/green",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/light_blue",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/light_gray",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/lime",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/magenta",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/orange",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/pink",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/purple",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/red",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/white",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/office_chair/yellow"
+    ]
+}

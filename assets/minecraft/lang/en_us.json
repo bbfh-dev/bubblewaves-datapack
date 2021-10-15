@@ -1,4 +1,6 @@
 {
+    "description.bubblewaves.none": "No description",
+    "description.bubblewaves.crafting_recipe": "Crafting Recipe:",
     "category.bubblewaves.furniture": "Furniture",
     "block.bubblewaves.bubble_bench": "Bubble Bench",
     "block.bubblewaves.oak_table": "Oak Table",
