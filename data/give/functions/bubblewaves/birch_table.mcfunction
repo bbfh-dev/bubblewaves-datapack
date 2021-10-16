@@ -1,1 +1,1 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.birch_table"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85004, display:{Name:'{"translate":"block.bubblewaves.birch_table", "italic":false}'}}}}
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.birch", "buws.table"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85004, display:{Name:'{"translate":"block.bubblewaves.birch_table", "italic":false}'}}}}

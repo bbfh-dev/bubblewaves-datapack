@@ -1,0 +1,9 @@
+execute if entity @s[tag=buws.oak] align xyz run function bubblewaves:blocks/chair/oak/place
+execute if entity @s[tag=buws.spruce] align xyz run function bubblewaves:blocks/chair/spruce/place
+execute if entity @s[tag=buws.birch] align xyz run function bubblewaves:blocks/chair/birch/place
+execute if entity @s[tag=buws.jungle] align xyz run function bubblewaves:blocks/chair/jungle/place
+execute if entity @s[tag=buws.acacia] align xyz run function bubblewaves:blocks/chair/acacia/place
+execute if entity @s[tag=buws.dark_oak] align xyz run function bubblewaves:blocks/chair/dark_oak/place
+execute if entity @s[tag=buws.crimson] align xyz run function bubblewaves:blocks/chair/crimson/place
+execute if entity @s[tag=buws.warped] align xyz run function bubblewaves:blocks/chair/warped/place
+execute if entity @s[tag=buws.stone] align xyz run function bubblewaves:blocks/chair/stone/place

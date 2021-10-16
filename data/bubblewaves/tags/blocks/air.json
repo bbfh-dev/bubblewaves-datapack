@@ -50,6 +50,7 @@
         "minecraft:tripwire_hook",
         "minecraft:tripwire",
         "#minecraft:pressure_plates",
-        "#minecraft:rails"
+        "#minecraft:rails",
+        "minecraft:structure_void"
     ]
 }
