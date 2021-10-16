@@ -6,4 +6,4 @@ execute if entity @p[scores={bubblewaves=1}] run function bubblewaves:blocks/bub
 
 #  Limit
 execute if score @s buws.stateB matches ..-1 run scoreboard players set @s buws.stateB 0
-execute if score @s buws.stateB matches 3.. run scoreboard players set @s buws.stateB 2 
+execute if score @s buws.stateB matches 3.. run scoreboard players set @s buws.stateB 2

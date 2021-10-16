@@ -1,0 +1,16 @@
+execute if entity @s[tag=buws.black] align xyz run function bubblewaves:blocks/armchairs/black/place
+execute if entity @s[tag=buws.blue] align xyz run function bubblewaves:blocks/armchairs/blue/place
+execute if entity @s[tag=buws.brown] align xyz run function bubblewaves:blocks/armchairs/brown/place
+execute if entity @s[tag=buws.cyan] align xyz run function bubblewaves:blocks/armchairs/cyan/place
+execute if entity @s[tag=buws.gray] align xyz run function bubblewaves:blocks/armchairs/gray/place
+execute if entity @s[tag=buws.green] align xyz run function bubblewaves:blocks/armchairs/green/place
+execute if entity @s[tag=buws.light_blue] align xyz run function bubblewaves:blocks/armchairs/light_blue/place
+execute if entity @s[tag=buws.light_gray] align xyz run function bubblewaves:blocks/armchairs/light_gray/place
+execute if entity @s[tag=buws.lime] align xyz run function bubblewaves:blocks/armchairs/lime/place
+execute if entity @s[tag=buws.magenta] align xyz run function bubblewaves:blocks/armchairs/magenta/place
+execute if entity @s[tag=buws.orange] align xyz run function bubblewaves:blocks/armchairs/orange/place
+execute if entity @s[tag=buws.pink] align xyz run function bubblewaves:blocks/armchairs/pink/place
+execute if entity @s[tag=buws.purple] align xyz run function bubblewaves:blocks/armchairs/purple/place
+execute if entity @s[tag=buws.red] align xyz run function bubblewaves:blocks/armchairs/red/place
+execute if entity @s[tag=buws.white] align xyz run function bubblewaves:blocks/armchairs/white/place
+execute if entity @s[tag=buws.yellow] align xyz run function bubblewaves:blocks/armchairs/yellow/place

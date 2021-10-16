@@ -3,3 +3,7 @@ execute if entity @s[tag=buws.table] align xyz run function bubblewaves:blocks/t
 execute if entity @s[tag=buws.chair] align xyz run function bubblewaves:blocks/chair/place
 execute if entity @s[tag=buws.bench] align xyz run function bubblewaves:blocks/bench/place
 execute if entity @s[tag=buws.couch] align xyz run function bubblewaves:blocks/couches/conditions
+execute if entity @s[tag=buws.armchair] align xyz run function bubblewaves:blocks/armchairs/place
+execute if entity @s[tag=buws.dining_chair] align xyz run function bubblewaves:blocks/dining_chairs/place
+execute if entity @s[tag=buws.office_chair] align xyz run function bubblewaves:blocks/office_chairs/place
+execute if entity @s[tag=buws.shelf] align xyz run function bubblewaves:blocks/shelves/place
