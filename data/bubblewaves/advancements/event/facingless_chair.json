@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick",
+            "conditions": {
+                "player": {
+                    "vehicle": {
+                        "type": "minecraft:pig",
+                        "nbt": "{Tags:[\"-buws.facingless\"]}"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "bubblewaves:blocks/abstracts/player/facingless_chairs"
+    }
+}

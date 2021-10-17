@@ -1,0 +1,16 @@
+execute if entity @s[tag=buws.black] align xyz run function bubblewaves:blocks/bar_stools/black/place
+execute if entity @s[tag=buws.blue] align xyz run function bubblewaves:blocks/bar_stools/blue/place
+execute if entity @s[tag=buws.brown] align xyz run function bubblewaves:blocks/bar_stools/brown/place
+execute if entity @s[tag=buws.cyan] align xyz run function bubblewaves:blocks/bar_stools/cyan/place
+execute if entity @s[tag=buws.gray] align xyz run function bubblewaves:blocks/bar_stools/gray/place
+execute if entity @s[tag=buws.green] align xyz run function bubblewaves:blocks/bar_stools/green/place
+execute if entity @s[tag=buws.light_blue] align xyz run function bubblewaves:blocks/bar_stools/light_blue/place
+execute if entity @s[tag=buws.light_gray] align xyz run function bubblewaves:blocks/bar_stools/light_gray/place
+execute if entity @s[tag=buws.lime] align xyz run function bubblewaves:blocks/bar_stools/lime/place
+execute if entity @s[tag=buws.magenta] align xyz run function bubblewaves:blocks/bar_stools/magenta/place
+execute if entity @s[tag=buws.orange] align xyz run function bubblewaves:blocks/bar_stools/orange/place
+execute if entity @s[tag=buws.pink] align xyz run function bubblewaves:blocks/bar_stools/pink/place
+execute if entity @s[tag=buws.purple] align xyz run function bubblewaves:blocks/bar_stools/purple/place
+execute if entity @s[tag=buws.red] align xyz run function bubblewaves:blocks/bar_stools/red/place
+execute if entity @s[tag=buws.white] align xyz run function bubblewaves:blocks/bar_stools/white/place
+execute if entity @s[tag=buws.yellow] align xyz run function bubblewaves:blocks/bar_stools/yellow/place
