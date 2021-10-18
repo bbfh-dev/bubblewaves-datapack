@@ -11,3 +11,4 @@ execute if entity @s[tag=buws.cabinet] align xyz run function bubblewaves:blocks
 execute if entity @s[tag=buws.cupboard] align xyz run function bubblewaves:blocks/cupboards/place
 execute if entity @s[tag=buws.drawer] align xyz run function bubblewaves:blocks/drawers/place
 execute if entity @s[tag=buws.bar_stool] align xyz run function bubblewaves:blocks/bar_stools/place
+execute if entity @s[tag=buws.blinds] align xyz run function bubblewaves:blocks/blinds/place

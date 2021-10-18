@@ -1,0 +1,13 @@
+{
+    "values": [
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/oak",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/spruce",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/birch",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/jungle",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/acacia",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/dark_oak",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/crimson",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/warped",
+        "bubblewaves:blocks/bubble_bench/gui/furniture/blinds/stone"
+    ]
+}

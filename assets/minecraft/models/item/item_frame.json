@@ -211,14 +211,14 @@
         {"predicate":{"custom_model_data":85205}, "model":"bubblewaves:block/bar_stool/red"},
         {"predicate":{"custom_model_data":85206}, "model":"bubblewaves:block/bar_stool/white"},
         {"predicate":{"custom_model_data":85207}, "model":"bubblewaves:block/bar_stool/yellow"},
-        {"predicate":{"custom_model_data":85208}, "model":"bubblewaves:item/blinds/oak"},
-        {"predicate":{"custom_model_data":85209}, "model":"bubblewaves:item/blinds/spruce"},
-        {"predicate":{"custom_model_data":85210}, "model":"bubblewaves:item/blinds/birch"},
-        {"predicate":{"custom_model_data":85211}, "model":"bubblewaves:item/blinds/jungle"},
-        {"predicate":{"custom_model_data":85212}, "model":"bubblewaves:item/blinds/acacia"},
-        {"predicate":{"custom_model_data":85213}, "model":"bubblewaves:item/blinds/dark_oak"},
-        {"predicate":{"custom_model_data":85214}, "model":"bubblewaves:item/blinds/crimson"},
-        {"predicate":{"custom_model_data":85215}, "model":"bubblewaves:item/blinds/warped"},
-        {"predicate":{"custom_model_data":85216}, "model":"bubblewaves:item/blinds/stone"}
+        {"predicate":{"custom_model_data":85208}, "model":"bubblewaves:block/blinds/oak"},
+        {"predicate":{"custom_model_data":85209}, "model":"bubblewaves:block/blinds/spruce"},
+        {"predicate":{"custom_model_data":85210}, "model":"bubblewaves:block/blinds/birch"},
+        {"predicate":{"custom_model_data":85211}, "model":"bubblewaves:block/blinds/jungle"},
+        {"predicate":{"custom_model_data":85212}, "model":"bubblewaves:block/blinds/acacia"},
+        {"predicate":{"custom_model_data":85213}, "model":"bubblewaves:block/blinds/dark_oak"},
+        {"predicate":{"custom_model_data":85214}, "model":"bubblewaves:block/blinds/crimson"},
+        {"predicate":{"custom_model_data":85215}, "model":"bubblewaves:block/blinds/warped"},
+        {"predicate":{"custom_model_data":85216}, "model":"bubblewaves:block/blinds/stone"}
     ]
 }

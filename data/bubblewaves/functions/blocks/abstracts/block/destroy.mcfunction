@@ -11,3 +11,4 @@ execute if entity @s[tag=buws.cabinets] unless block ~ ~ ~ barrel run function b
 execute if entity @s[tag=buws.cupboards] unless block ~ ~ ~ chain run function bubblewaves:blocks/cupboards/destroy
 execute if entity @s[tag=buws.drawers] unless block ~ ~ ~ oak_trapdoor run function bubblewaves:blocks/tables/destroy
 execute if entity @s[tag=buws.bar_stools] unless block ~ ~ ~ structure_void run function bubblewaves:blocks/chair/destroy
+execute if entity @s[tag=buws.blinds] unless block ~ ~ ~ structure_void run function bubblewaves:blocks/blinds/destroy
