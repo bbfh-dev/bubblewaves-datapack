@@ -1,0 +1,14 @@
+execute if entity @s[tag=buws.bubble_bench] align xyz run function bubblewaves:blocks/bubble_bench/return
+execute if entity @s[tag=buws.table] align xyz run function bubblewaves:blocks/tables/return
+execute if entity @s[tag=buws.chair] align xyz run function bubblewaves:blocks/chair/return
+execute if entity @s[tag=buws.bench] align xyz run function bubblewaves:blocks/bench/return
+execute if entity @s[tag=buws.couch] align xyz run function bubblewaves:blocks/couches/return
+execute if entity @s[tag=buws.armchair] align xyz run function bubblewaves:blocks/armchairs/return
+execute if entity @s[tag=buws.dining_chair] align xyz run function bubblewaves:blocks/dining_chairs/return
+execute if entity @s[tag=buws.office_chair] align xyz run function bubblewaves:blocks/office_chairs/return
+execute if entity @s[tag=buws.shelf] align xyz run function bubblewaves:blocks/shelves/return
+execute if entity @s[tag=buws.cabinet] align xyz run function bubblewaves:blocks/cabinets/return
+execute if entity @s[tag=buws.cupboard] align xyz run function bubblewaves:blocks/cupboards/return
+execute if entity @s[tag=buws.drawer] align xyz run function bubblewaves:blocks/drawers/return
+execute if entity @s[tag=buws.bar_stool] align xyz run function bubblewaves:blocks/bar_stools/return
+execute if entity @s[tag=buws.blinds] align xyz run function bubblewaves:blocks/blinds/return

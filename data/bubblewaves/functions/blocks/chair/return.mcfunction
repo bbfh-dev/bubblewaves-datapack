@@ -1,0 +1,9 @@
+execute if entity @s[tag=buws.oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/oak_chair
+execute if entity @s[tag=buws.spruce] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/spruce_chair
+execute if entity @s[tag=buws.birch] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/birch_chair
+execute if entity @s[tag=buws.jungle] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/jungle_chair
+execute if entity @s[tag=buws.acacia] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/acacia_chair
+execute if entity @s[tag=buws.dark_oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/dark_oak_chair
+execute if entity @s[tag=buws.crimson] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/crimson_chair
+execute if entity @s[tag=buws.warped] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/warped_chair
+execute if entity @s[tag=buws.stone] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/stone_chair

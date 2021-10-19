@@ -1,16 +1,16 @@
-execute if entity @s[tag=buws.black] at @p run function give:bubblewaves/black_couch
-execute if entity @s[tag=buws.blue] at @p run function give:bubblewaves/blue_couch
-execute if entity @s[tag=buws.brown] at @p run function give:bubblewaves/brown_couch
-execute if entity @s[tag=buws.cyan] at @p run function give:bubblewaves/cyan_couch
-execute if entity @s[tag=buws.gray] at @p run function give:bubblewaves/gray_couch
-execute if entity @s[tag=buws.green] at @p run function give:bubblewaves/green_couch
-execute if entity @s[tag=buws.light_blue] at @p run function give:bubblewaves/light_blue_couch
-execute if entity @s[tag=buws.light_gray] at @p run function give:bubblewaves/light_gray_couch
-execute if entity @s[tag=buws.lime] at @p run function give:bubblewaves/lime_couch
-execute if entity @s[tag=buws.magenta] at @p run function give:bubblewaves/magenta_couch
-execute if entity @s[tag=buws.orange] at @p run function give:bubblewaves/orange_couch
-execute if entity @s[tag=buws.pink] at @p run function give:bubblewaves/pink_couch
-execute if entity @s[tag=buws.purple] at @p run function give:bubblewaves/purple_couch
-execute if entity @s[tag=buws.red] at @p run function give:bubblewaves/red_couch
-execute if entity @s[tag=buws.white] at @p run function give:bubblewaves/white_couch
-execute if entity @s[tag=buws.yellow] at @p run function give:bubblewaves/yellow_couch
+execute if entity @s[tag=buws.black] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/black_couch
+execute if entity @s[tag=buws.blue] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/blue_couch
+execute if entity @s[tag=buws.brown] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/brown_couch
+execute if entity @s[tag=buws.cyan] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/cyan_couch
+execute if entity @s[tag=buws.gray] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/gray_couch
+execute if entity @s[tag=buws.green] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/green_couch
+execute if entity @s[tag=buws.light_blue] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/light_blue_couch
+execute if entity @s[tag=buws.light_gray] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/light_gray_couch
+execute if entity @s[tag=buws.lime] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/lime_couch
+execute if entity @s[tag=buws.magenta] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/magenta_couch
+execute if entity @s[tag=buws.orange] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/orange_couch
+execute if entity @s[tag=buws.pink] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/pink_couch
+execute if entity @s[tag=buws.purple] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/purple_couch
+execute if entity @s[tag=buws.red] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/red_couch
+execute if entity @s[tag=buws.white] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/white_couch
+execute if entity @s[tag=buws.yellow] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/yellow_couch
