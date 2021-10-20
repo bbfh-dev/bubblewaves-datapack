@@ -34,3 +34,5 @@ execute store success score $Clicked bubblewaves run clear @p[scores={bubblewave
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/bar_stools
 execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{class:"#gui:blinds"}} 0
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/blinds
+execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{id:"gui:pincode_lock"}} 0
+execute if score $Clicked bubblewaves matches 1 run function bubblewaves:blocks/bubble_bench/gui/security/pincode_lock

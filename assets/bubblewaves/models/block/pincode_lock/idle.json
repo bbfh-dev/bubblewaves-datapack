@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/pincode_lock/locked",
+	"textures": {
+        "front": "bubblewaves:block/pincode_lock_idle"
+	}
+}

@@ -156,5 +156,10 @@
     "block.bubblewaves.dark_oak_blinds": "Dark Oak Blinds",
     "block.bubblewaves.crimson_blinds": "Crimson Blinds",
     "block.bubblewaves.warped_blinds": "Warped Blinds",
-    "block.bubblewaves.stone_blinds": "Stone Blinds"
+    "block.bubblewaves.stone_blinds": "Stone Blinds",
+    "block.bubblewaves.pincode_lock": "PIN Code Lock",
+    "gui.bubblewaves.set_password": "Set password for %s:",
+    "gui.bubblewaves.enter_password": "Enter password for %s:",
+    "gui.bubblewaves.wrong_password": "Wrong password",
+    "gui.bubblewaves.click_to_enter_an_integer_password": "[Click HERE and enter an integer]"
 }

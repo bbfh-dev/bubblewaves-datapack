@@ -1,0 +1,2 @@
+execute unless score @p buws.input = @s buws.stateA run function bubblewaves:blocks/pincode_lock/action/unlock_wrong
+execute if score @p buws.input = @s buws.stateA run function bubblewaves:blocks/pincode_lock/action/unlock_success

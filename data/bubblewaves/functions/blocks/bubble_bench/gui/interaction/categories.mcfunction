@@ -16,3 +16,5 @@ execute store success score $Clicked bubblewaves run clear @p[scores={bubblewave
 execute if score $Clicked bubblewaves matches 1 run scoreboard players set @s buws.stateA 7
 execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{id:"gui:furniture9"}}
 execute if score $Clicked bubblewaves matches 1 run scoreboard players set @s buws.stateA 8
+execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{id:"gui:security1"}}
+execute if score $Clicked bubblewaves matches 1 run scoreboard players set @s buws.stateA 9

@@ -3,6 +3,10 @@ scoreboard objectives add buws.registry dummy
 scoreboard objectives add buws.stateA dummy
 scoreboard objectives add buws.stateB dummy
 scoreboard objectives add buws.stateC dummy
+scoreboard objectives add buws.timerA dummy
+scoreboard objectives add buws.timerB dummy
+scoreboard objectives add buws.timerC dummy
+scoreboard objectives add buws.input trigger
 
 #  Plugins
 scoreboard players set $PluginsLoaded bubblewaves 0

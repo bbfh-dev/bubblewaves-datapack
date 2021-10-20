@@ -187,6 +187,9 @@
         {"predicate":{"custom_model_data":85213}, "model":"bubblewaves:item/blinds/dark_oak"},
         {"predicate":{"custom_model_data":85214}, "model":"bubblewaves:item/blinds/crimson"},
         {"predicate":{"custom_model_data":85215}, "model":"bubblewaves:item/blinds/warped"},
-        {"predicate":{"custom_model_data":85216}, "model":"bubblewaves:item/blinds/stone"}
+        {"predicate":{"custom_model_data":85216}, "model":"bubblewaves:item/blinds/stone"},
+        {"predicate":{"custom_model_data":85217}, "model":"bubblewaves:block/pincode_lock/idle"},
+        {"predicate":{"custom_model_data":85218}, "model":"bubblewaves:block/pincode_lock/locked"},
+        {"predicate":{"custom_model_data":85219}, "model":"bubblewaves:block/pincode_lock/unlocked"}
     ]
 }

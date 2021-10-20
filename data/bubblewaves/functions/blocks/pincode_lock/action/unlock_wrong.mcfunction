@@ -1,0 +1,1 @@
+tellraw @p {"translate":"gui.bubblewaves.wrong_password", "color":"#ff5151"}

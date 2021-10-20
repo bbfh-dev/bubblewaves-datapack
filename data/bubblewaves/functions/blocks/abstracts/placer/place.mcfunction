@@ -12,3 +12,4 @@ execute if entity @s[tag=buws.cupboard] align xyz run function bubblewaves:block
 execute if entity @s[tag=buws.drawer] align xyz run function bubblewaves:blocks/drawers/place
 execute if entity @s[tag=buws.bar_stool] align xyz run function bubblewaves:blocks/bar_stools/place
 execute if entity @s[tag=buws.blinds] align xyz run function bubblewaves:blocks/blinds/place
+execute if entity @s[tag=buws.pincode_lock] align xyz run function bubblewaves:blocks/pincode_lock/place

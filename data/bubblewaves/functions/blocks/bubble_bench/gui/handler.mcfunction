@@ -14,3 +14,4 @@ execute if score @s buws.stateA matches 5 run function bubblewaves:blocks/bubble
 execute if score @s buws.stateA matches 6 run function bubblewaves:blocks/bubble_bench/gui/furniture/6
 execute if score @s buws.stateA matches 7 run function bubblewaves:blocks/bubble_bench/gui/furniture/7
 execute if score @s buws.stateA matches 8 run function bubblewaves:blocks/bubble_bench/gui/furniture/8
+execute if score @s buws.stateA matches 9 run function bubblewaves:blocks/bubble_bench/gui/security/0
