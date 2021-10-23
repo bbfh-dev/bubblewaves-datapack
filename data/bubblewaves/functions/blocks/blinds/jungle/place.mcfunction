@@ -6,7 +6,7 @@ execute if score $Facing bubblewaves matches 2 run summon armor_stand ~.5 ~ ~.5 
 execute if score $Facing bubblewaves matches 3 run summon armor_stand ~.5 ~ ~.5 {Rotation:[90f],Tags:["buws.blinds","buws.jungle","bubblewaves","buws.block","-buws.west","buws.notset"], Invisible:1b, Small:1b, DisabledSlots:4144959, NoGravity:1b, ArmorItems:[{},{},{},{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:85211}}]}
 execute if score $Facing bubblewaves matches 4 run summon armor_stand ~.5 ~ ~.5 {Rotation:[180f],Tags:["buws.blinds","buws.jungle","bubblewaves","buws.block","-buws.north","buws.notset"], Invisible:1b, Small:1b, DisabledSlots:4144959, NoGravity:1b, ArmorItems:[{},{},{},{id:"minecraft:item_frame", Count:1b, tag:{CustomModelData:85211}}]}
 
-execute unless score $Facing bubblewaves matches 0 run setblock ~ ~ ~ structure_void
+execute unless score $Facing bubblewaves matches 0 run setblock ~ ~ ~ petrified_oak_slab[type=top]
 
 #  Register
 execute as @e[type=armor_stand, tag=buws.block, tag=buws.notset, limit=1] run function bubblewaves:blocks/abstracts/block/place

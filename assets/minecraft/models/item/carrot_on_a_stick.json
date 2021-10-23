@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+      "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":85226}, "model":"bubblewaves:item/keycard/low"},
+        {"predicate":{"custom_model_data":85227}, "model":"bubblewaves:item/keycard/middle"},
+        {"predicate":{"custom_model_data":85228}, "model":"bubblewaves:item/keycard/high"},
+        {"predicate":{"custom_model_data":85230}, "model":"bubblewaves:item/advanced_glasses"}
+    ]
+  }

@@ -12,3 +12,5 @@ execute if entity @s[tag=buws.cupboard] align xyz run function bubblewaves:block
 execute if entity @s[tag=buws.drawer] align xyz run function bubblewaves:blocks/drawers/return
 execute if entity @s[tag=buws.bar_stool] align xyz run function bubblewaves:blocks/bar_stools/return
 execute if entity @s[tag=buws.blinds] align xyz run function bubblewaves:blocks/blinds/return
+execute if entity @s[tag=buws.pincode_lock] align xyz run function bubblewaves:blocks/pincode_lock/return
+execute if entity @s[tag=buws.retinal_scanner] align xyz run function bubblewaves:blocks/retinal_scanner/return

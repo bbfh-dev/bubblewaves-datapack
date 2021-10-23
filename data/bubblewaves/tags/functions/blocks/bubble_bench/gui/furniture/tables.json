@@ -1,13 +1,13 @@
 {
     "values": [
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/oak",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/spruce",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/birch",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/jungle",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/acacia",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/dark_oak",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/crimson",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/warped",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/tables/stone"
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/oak",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/spruce",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/birch",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/jungle",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/acacia",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/dark_oak",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/crimson",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/warped",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/tables/stone"
     ]
 }

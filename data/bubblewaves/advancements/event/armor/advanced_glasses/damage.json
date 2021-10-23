@@ -1,0 +1,32 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:random_chance",
+                        "chance": 0.05
+                    },
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "equipment": {
+                                "head": {
+                                    "items": [
+                                        "minecraft:shield"
+                                    ],
+                                    "nbt": "{display:{Name:'{\"translate\":\"item.bubblewaves.advanced_glasses\", \"italic\":false}'}}"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "bubblewaves:blocks/abstracts/player/armor/advanced_glasses/damage"
+    }
+}

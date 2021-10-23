@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/retinal_scanner/idle",
+	"textures": {
+        "front": "bubblewaves:block/retinal_scanner/locked"
+	}
+}

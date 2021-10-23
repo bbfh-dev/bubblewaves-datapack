@@ -222,6 +222,14 @@
         {"predicate":{"custom_model_data":85216}, "model":"bubblewaves:block/blinds/stone"},
         {"predicate":{"custom_model_data":85217}, "model":"bubblewaves:block/pincode_lock/idle"},
         {"predicate":{"custom_model_data":85218}, "model":"bubblewaves:block/pincode_lock/locked"},
-        {"predicate":{"custom_model_data":85219}, "model":"bubblewaves:block/pincode_lock/unlocked"}
+        {"predicate":{"custom_model_data":85219}, "model":"bubblewaves:block/pincode_lock/unlocked"},
+        {"predicate":{"custom_model_data":85220}, "model":"bubblewaves:block/retinal_scanner/idle"},
+        {"predicate":{"custom_model_data":85221}, "model":"bubblewaves:block/retinal_scanner/locked"},
+        {"predicate":{"custom_model_data":85222}, "model":"bubblewaves:block/retinal_scanner/unlocked"},
+        {"predicate":{"custom_model_data":85223}, "model":"bubblewaves:block/keycard_reader/idle"},
+        {"predicate":{"custom_model_data":85224}, "model":"bubblewaves:block/keycard_reader/locked"},
+        {"predicate":{"custom_model_data":85225}, "model":"bubblewaves:block/keycard_reader/unlocked"},
+        {"predicate":{"custom_model_data":85229}, "model":"bubblewaves:block/laser"},
+        {"predicate":{"custom_model_data":85231}, "model":"bubblewaves:block/security_alarm"}
     ]
 }

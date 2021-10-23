@@ -1,0 +1,4 @@
+execute as @s[tag=!buws.keycard_reader] unless score @p buws.input = @s buws.stateA run tellraw @p {"translate":"gui.bubblewaves.wrong_password", "color":"#ff5151"}
+execute as @s[tag=!buws.keycard_reader] if score @p buws.input = @s buws.stateA run function bubblewaves:blocks/abstracts/action/unlock
+execute as @s[tag=buws.keycard_reader] unless score @p buws.input >= @s buws.stateB run tellraw @p {"translate":"keycard_reader.bubblewaves.low_level", "color":"#ff5151"}
+execute as @s[tag=buws.keycard_reader] if score @p buws.input >= @s buws.stateB run function bubblewaves:blocks/abstracts/action/unlock

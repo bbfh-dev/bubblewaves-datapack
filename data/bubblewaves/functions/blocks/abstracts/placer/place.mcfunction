@@ -13,3 +13,7 @@ execute if entity @s[tag=buws.drawer] align xyz run function bubblewaves:blocks/
 execute if entity @s[tag=buws.bar_stool] align xyz run function bubblewaves:blocks/bar_stools/place
 execute if entity @s[tag=buws.blinds] align xyz run function bubblewaves:blocks/blinds/place
 execute if entity @s[tag=buws.pincode_lock] align xyz run function bubblewaves:blocks/pincode_lock/place
+execute if entity @s[tag=buws.retinal_scanner] align xyz run function bubblewaves:blocks/retinal_scanner/place
+execute if entity @s[tag=buws.keycard_reader] align xyz run function bubblewaves:blocks/keycard_reader/place
+execute if entity @s[tag=buws.laser] align xyz run function bubblewaves:blocks/laser/place
+execute if entity @s[tag=buws.security_alarm] align xyz run function bubblewaves:blocks/security_alarm/place

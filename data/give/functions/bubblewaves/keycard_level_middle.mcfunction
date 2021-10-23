@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:carrot_on_a_stick", Count:1b, tag:{CustomModelData:85227, display:{Name:'{"translate":"item.bubblewaves.keycard_level_middle", "italic":false}'}}}}

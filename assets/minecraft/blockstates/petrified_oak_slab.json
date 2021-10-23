@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+        "model": "bubblewaves:block/air"
+    },
+    "type=double": {
+      "model": "bubblewaves:block/air"
+    },
+    "type=top": {
+      "model": "bubblewaves:block/air"
+    }
+  }
+}

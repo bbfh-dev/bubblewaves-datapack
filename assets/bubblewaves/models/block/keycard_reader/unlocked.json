@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/keycard_reader/idle",
+	"textures": {
+        "front": "bubblewaves:block/keycard_reader/unlocked"
+	}
+}

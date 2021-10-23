@@ -1,0 +1,12 @@
+[
+    {
+        "function": "minecraft:set_damage",
+        "damage": {
+            "type": "minecraft:score",
+            "target": "this",
+            "score": "bubblewaves",
+            "scale": 0.00297619
+        },
+        "add": true
+    }
+]

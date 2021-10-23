@@ -6,7 +6,18 @@ scoreboard objectives add buws.stateC dummy
 scoreboard objectives add buws.timerA dummy
 scoreboard objectives add buws.timerB dummy
 scoreboard objectives add buws.timerC dummy
+scoreboard objectives add buws.digit0 dummy
+scoreboard objectives add buws.digit1 dummy
+scoreboard objectives add buws.digit2 dummy
+scoreboard objectives add buws.digit3 dummy
+scoreboard objectives add buws.version dummy
 scoreboard objectives add buws.input trigger
+scoreboard objectives add buws.item_used minecraft.used:minecraft.carrot_on_a_stick
+
+scoreboard players set $DataVersion buws.version 400
+
+#  BubbleBench
+function bubblewaves:blocks/bubble_bench/setup
 
 #  Plugins
 scoreboard players set $PluginsLoaded bubblewaves 0

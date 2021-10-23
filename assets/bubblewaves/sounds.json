@@ -1,0 +1,29 @@
+{
+    "block.lock.keyhole": {
+        "sounds": [
+            {
+                "name": "bubblewaves:block/lock/keyhole",
+                "volume": 1
+            }
+        ],
+        "subtitle": "subtitles.block.lock.keyhole"
+    },
+    "block.lock.password_set": {
+        "sounds": [
+            {
+                "name": "bubblewaves:block/lock/password_set",
+                "volume": 1
+            }
+        ],
+        "subtitle": "subtitles.block.lock.password_set"
+    },
+    "block.security_alert.alert": {
+        "sounds": [
+            {
+                "name": "bubblewaves:block/security_alert/alert",
+                "volume": 1
+            }
+        ],
+        "subtitle": "subtitles.block.security_alert.alert"
+    }
+}

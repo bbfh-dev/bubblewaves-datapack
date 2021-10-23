@@ -1,13 +1,13 @@
 {
     "values": [
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/oak",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/spruce",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/birch",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/jungle",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/acacia",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/dark_oak",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/crimson",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/warped",
-        "bubblewaves:blocks/bubble_bench/gui/furniture/cupboards/stone"
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/oak",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/spruce",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/birch",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/jungle",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/acacia",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/dark_oak",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/crimson",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/warped",
+        "bubblewaves:blocks/bubble_bench/gui/items/interaction/cupboards/stone"
     ]
 }

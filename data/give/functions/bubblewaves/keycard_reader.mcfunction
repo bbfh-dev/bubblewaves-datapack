@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.keycard_reader"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85224, display:{Name:'{"translate":"block.bubblewaves.keycard_reader", "italic":false}'}}}}

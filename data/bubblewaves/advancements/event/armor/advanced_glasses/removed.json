@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "rewards": {
+        "function": "bubblewaves:blocks/abstracts/player/armor/advanced_glasses/removed"
+    }
+}

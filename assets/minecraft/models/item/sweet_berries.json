@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/sweet_berries"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":85232}, "model":"bubblewaves:item/cup_of_coffee"},
+        {"predicate":{"custom_model_data":85233}, "model":"bubblewaves:item/burger"},
+        {"predicate":{"custom_model_data":85234}, "model":"bubblewaves:item/pizza_slice"},
+        {"predicate":{"custom_model_data":85235}, "model":"bubblewaves:item/donut"},
+        {"predicate":{"custom_model_data":85236}, "model":"bubblewaves:item/chocolate"},
+        {"predicate":{"custom_model_data":85237}, "model":"bubblewaves:item/burrito"}
+    ]
+}
