@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:sweet_berries"
+                    ],
+                    "nbt": "{CustomModelData:85233}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "bubblewaves:blocks/abstracts/player/consume_food/burger"
+    }
+}

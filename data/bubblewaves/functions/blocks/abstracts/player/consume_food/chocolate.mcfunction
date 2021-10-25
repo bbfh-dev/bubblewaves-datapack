@@ -1,0 +1,1 @@
+advancement revoke @s only bubblewaves:event/consume_item/chocolate
