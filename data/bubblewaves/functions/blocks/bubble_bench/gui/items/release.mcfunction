@@ -23,4 +23,5 @@ scoreboard players remove $Bench.page bubblewaves 1
 execute store result score $Bench.category bubblewaves run data get block ~ ~ ~ Items[{tag:{Enchantments:[{}]}}].tag.BUWS.id
 execute if score $Bench.category bubblewaves matches 85074 run function bubblewaves:blocks/bubble_bench/gui/items/release/furniture
 execute if score $Bench.category bubblewaves matches 85231 run function bubblewaves:blocks/bubble_bench/gui/items/release/security
+execute if score $Bench.category bubblewaves matches 85242 run function bubblewaves:blocks/bubble_bench/gui/items/release/decoration
 execute if score $Bench.category bubblewaves matches 85232 run function bubblewaves:blocks/bubble_bench/gui/items/release/food

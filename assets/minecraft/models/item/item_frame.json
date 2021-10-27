@@ -230,6 +230,13 @@
         {"predicate":{"custom_model_data":85224}, "model":"bubblewaves:block/keycard_reader/locked"},
         {"predicate":{"custom_model_data":85225}, "model":"bubblewaves:block/keycard_reader/unlocked"},
         {"predicate":{"custom_model_data":85229}, "model":"bubblewaves:block/laser"},
-        {"predicate":{"custom_model_data":85231}, "model":"bubblewaves:block/security_alarm"}
+        {"predicate":{"custom_model_data":85231}, "model":"bubblewaves:block/security_alarm"},
+        {"predicate":{"custom_model_data":85238}, "model":"bubblewaves:decoration/book/red"},
+        {"predicate":{"custom_model_data":85239}, "model":"bubblewaves:decoration/book/blue"},
+        {"predicate":{"custom_model_data":85240}, "model":"bubblewaves:decoration/book/yellow"},
+        {"predicate":{"custom_model_data":85241}, "model":"bubblewaves:decoration/book/green"},
+        {"predicate":{"custom_model_data":85242}, "model":"bubblewaves:decoration/book/stack_a"},
+        {"predicate":{"custom_model_data":85243}, "model":"bubblewaves:decoration/book/stack_b"},
+        {"predicate":{"custom_model_data":85244}, "model":"bubblewaves:decoration/newspaper"}
     ]
 }

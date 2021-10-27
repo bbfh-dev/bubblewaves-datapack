@@ -1,0 +1,6 @@
+{
+    "parent": "bubblewaves:decoration/book/template",
+    "textures": {
+        "material": "block/yellow_terracotta"
+    }
+}

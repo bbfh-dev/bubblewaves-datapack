@@ -18,7 +18,7 @@ execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks
 
 execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{id:"#couches"}} 0
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/couches
-
+    
 execute store success score $Clicked bubblewaves run clear @p[scores={bubblewaves=1}] structure_void{BUWS:{id:"#armchairs"}} 0
 execute if score $Clicked bubblewaves matches 1 run function #bubblewaves:blocks/bubble_bench/gui/furniture/armchairs
 
