@@ -1,6 +1,0 @@
-{
-    "parent": "bubblewaves:block/tables/side_rotated/template",
-	"textures": {
-		"material": "block/spruce_planks"
-	}
-}

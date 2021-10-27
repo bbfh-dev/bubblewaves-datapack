@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.crimson", "buws.blinds"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85214, display:{Name:'{"translate":"block.bubblewaves.crimson_blinds", "italic":false}'}}}}

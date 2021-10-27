@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:sweet_berries", Count:1b, tag:{Tags:["buws.food"], CustomModelData:85237, display:{Name:'{"translate":"item.bubblewaves.burrito", "italic":false}'}}}}

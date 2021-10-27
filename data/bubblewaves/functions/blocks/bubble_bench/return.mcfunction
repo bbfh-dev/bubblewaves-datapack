@@ -1,1 +1,0 @@
-execute as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/bubble_bench

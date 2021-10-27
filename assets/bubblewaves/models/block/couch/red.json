@@ -1,6 +1,0 @@
-{
-	"parent": "bubblewaves:block/couch/template",
-	"textures": {
-		"texture": "bubblewaves:block/couch/red"
-	}
-}

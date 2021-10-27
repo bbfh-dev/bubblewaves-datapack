@@ -1,6 +1,0 @@
-{
-    "parent": "bubblewaves:decoration/book/template",
-    "textures": {
-        "material": "block/red_terracotta"
-    }
-}

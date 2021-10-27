@@ -1,9 +1,0 @@
-execute if entity @s[tag=buws.oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/oak_bench
-execute if entity @s[tag=buws.spruce] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/spruce_bench
-execute if entity @s[tag=buws.birch] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/birch_bench
-execute if entity @s[tag=buws.jungle] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/jungle_bench
-execute if entity @s[tag=buws.acacia] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/acacia_bench
-execute if entity @s[tag=buws.dark_oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/dark_oak_bench
-execute if entity @s[tag=buws.crimson] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/crimson_bench
-execute if entity @s[tag=buws.warped] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/warped_bench
-execute if entity @s[tag=buws.stone] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/stone_bench

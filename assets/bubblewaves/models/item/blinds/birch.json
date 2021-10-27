@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "bubblewaves:item/birch_blinds"
-    }
-}

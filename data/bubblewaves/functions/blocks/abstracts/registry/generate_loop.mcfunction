@@ -1,2 +1,0 @@
-scoreboard players add $Score buws.registry 1
-execute as @e[type=minecraft:armor_stand, tag=buws.block] if score @s buws.registry = $Score buws.registry run function bubblewaves:blocks/abstracts/registry/generate_loop

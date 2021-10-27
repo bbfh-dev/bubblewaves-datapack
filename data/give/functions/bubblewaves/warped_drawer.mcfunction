@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.warped", "buws.drawer"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85190, display:{Name:'{"translate":"block.bubblewaves.warped_drawer", "italic":false}'}}}}

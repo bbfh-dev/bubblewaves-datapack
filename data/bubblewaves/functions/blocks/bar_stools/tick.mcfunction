@@ -1,5 +1,0 @@
-setblock ~ ~ ~ oak_trapdoor[open=false, half=bottom]
-execute as @s[tag=-buws.east] run setblock ~ ~ ~-1 oak_trapdoor[open=false, half=bottom]
-execute as @s[tag=-buws.south] run setblock ~1 ~ ~ oak_trapdoor[open=false, half=bottom]
-execute as @s[tag=-buws.west] run setblock ~ ~ ~1 oak_trapdoor[open=false, half=bottom]
-execute as @s[tag=-buws.north] run setblock ~-1 ~ ~ oak_trapdoor[open=false, half=bottom]

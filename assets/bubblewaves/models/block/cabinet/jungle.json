@@ -1,6 +1,0 @@
-{
-	"parent": "bubblewaves:block/cabinet/template",
-	"textures": {
-		"material": "block/jungle_planks"
-	}
-}

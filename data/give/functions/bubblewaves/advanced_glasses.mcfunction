@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:carrot_on_a_stick", Count:1b, tag:{CustomModelData:85230, Tags:["-buws.action"], display:{Name:'{"translate":"item.bubblewaves.advanced_glasses", "italic":false}'}}}}

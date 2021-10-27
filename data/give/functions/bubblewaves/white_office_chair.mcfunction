@@ -1,1 +1,0 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:item_frame", Count:1b, tag:{EntityTag:{Tags:["buws.placer", "buws.white", "buws.office_chair"], Invisible:1b, Fixed:1b, Invulnerable:1b}, CustomModelData:85113, display:{Name:'{"translate":"block.bubblewaves.white_office_chair", "italic":false}'}}}}

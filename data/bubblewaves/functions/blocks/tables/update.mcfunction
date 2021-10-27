@@ -1,9 +1,0 @@
-execute if entity @s[tag=buws.oak] run function bubblewaves:blocks/tables/oak/update
-execute if entity @s[tag=buws.spruce] run function bubblewaves:blocks/tables/spruce/update
-execute if entity @s[tag=buws.birch] run function bubblewaves:blocks/tables/birch/update
-execute if entity @s[tag=buws.jungle] run function bubblewaves:blocks/tables/jungle/update
-execute if entity @s[tag=buws.acacia] run function bubblewaves:blocks/tables/acacia/update
-execute if entity @s[tag=buws.dark_oak] run function bubblewaves:blocks/tables/dark_oak/update
-execute if entity @s[tag=buws.crimson] run function bubblewaves:blocks/tables/crimson/update
-execute if entity @s[tag=buws.warped] run function bubblewaves:blocks/tables/warped/update
-execute if entity @s[tag=buws.stone] run function bubblewaves:blocks/tables/stone/update

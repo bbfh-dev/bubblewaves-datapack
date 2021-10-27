@@ -1,1 +1,0 @@
-execute if entity @s[tag=buws.tables] run function bubblewaves:blocks/tables/update

@@ -1,2 +1,0 @@
-advancement revoke @s only bubblewaves:event/armor/advanced_glasses/removed
-execute unless entity @s[nbt={Inventory:[{Slot:103b, tag:{display:{Name:'{"translate":"item.bubblewaves.advanced_glasses", "italic":false}'}}}]}] run function bubblewaves:blocks/abstracts/player/armor/advanced_glasses/removed_pass

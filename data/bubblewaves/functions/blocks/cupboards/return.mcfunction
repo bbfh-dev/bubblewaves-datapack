@@ -1,9 +1,0 @@
-execute if entity @s[tag=buws.oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/oak_cupboard
-execute if entity @s[tag=buws.spruce] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/spruce_cupboard
-execute if entity @s[tag=buws.birch] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/birch_cupboard
-execute if entity @s[tag=buws.jungle] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/jungle_cupboard
-execute if entity @s[tag=buws.acacia] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/acacia_cupboard
-execute if entity @s[tag=buws.dark_oak] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/dark_oak_cupboard
-execute if entity @s[tag=buws.crimson] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/crimson_cupboard
-execute if entity @s[tag=buws.warped] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/warped_cupboard
-execute if entity @s[tag=buws.stone] as @p if entity @s[gamemode=!creative] at @s run function give:bubblewaves/stone_cupboard
